@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Paulorms
+- 👀 I’m interested in t.i overall
+- 🌱 I’m currently learning .Net development
